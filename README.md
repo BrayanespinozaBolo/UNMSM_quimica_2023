@@ -1,3 +1,3 @@
 # UNMSM_quimica_2023
-Envio de practica de Quimica PC1
+Envios de las practica de Quimica
 ejercicios de quimica, resueltos con python desde Google Colaboratory
